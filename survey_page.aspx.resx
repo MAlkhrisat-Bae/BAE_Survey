@@ -1,0 +1,558 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="A10Resource1.Text" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="A10Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="A11Resource1.Text" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="A11Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="A12Resource1.Text" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="A12Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="A13Resource1.Text" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="A13Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="A14Resource1.Text" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="A14Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="A15Resource1.Text" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="A15Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="A16Resource1.Text" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="A16Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="A17Resource1.Text" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="A17Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="A18Resource1.Text" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="A18Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="A19Resource1.Text" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="A19Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="A20Resource1.Text" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="A20Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="A21Resource1.Text" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="A21Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="A22Resource1.Text" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="A22Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="A23Resource1.Text" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="A23Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="A24Resource1.Text" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="A24Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="A25Resource1.Text" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="A25Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="A26Resource1.Text" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="A26Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="A27Resource1.Text" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="A27Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="A28Resource1.Text" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="A28Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="A29Resource1.Text" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="A29Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Button1Resource1.Text" xml:space="preserve">
+    <value>Submit</value>
+  </data>
+  <data name="Button1Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Direction" xml:space="preserve">
+    <value>ltr</value>
+  </data>
+  <data name="DropDownList1Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="DropDownList2Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Image1Resource1.AlternateText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Image1Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Label10Resource1.Text" xml:space="preserve">
+    <value>We are delighted to hear that we have met your expectations, please tell us what we did right?</value>
+  </data>
+  <data name="Label10Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Label11Resource1.Text" xml:space="preserve">
+    <value>We are sorry to hear that you would not recommend us to your family and friends. Please tell us what we can improve to meet your expectations?</value>
+  </data>
+  <data name="Label11Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Label12Resource1.Text" xml:space="preserve">
+    <value>Please rate your overall experience at Bank al Etihad on a scale from very good to very poor:</value>
+  </data>
+  <data name="Label12Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Label13Resource1.Text" xml:space="preserve">
+    <value>Very Poor</value>
+  </data>
+  <data name="Label13Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Label14Resource1.Text" xml:space="preserve">
+    <value>Neither Good nor Poor</value>
+  </data>
+  <data name="Label14Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Label15Resource1.Text" xml:space="preserve">
+    <value>Very Good</value>
+  </data>
+  <data name="Label15Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Label16Resource1.Text" xml:space="preserve">
+    <value>Would you like us to contact you?</value>
+  </data>
+  <data name="Label16Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Label17Resource1.Text" xml:space="preserve">
+    <value>Please insert your preferred call back medium:</value>
+  </data>
+  <data name="Label17Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Label18Resource1.Text" xml:space="preserve">
+    <value>Mobile number:</value>
+  </data>
+  <data name="Label18Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Label19Resource1.Text" xml:space="preserve">
+    <value>OR</value>
+  </data>
+  <data name="Label19Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Label1Resource1.Text" xml:space="preserve">
+    <value> Etihad Customer Feedback</value>
+  </data>
+  <data name="Label1Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Label20Resource1.Text" xml:space="preserve">
+    <value>E-mail address: </value>
+  </data>
+  <data name="Label20Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Label21Resource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Label21Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Label22Resource1.Text" xml:space="preserve">
+    <value>How have you dealt with Bank al Etihad:  </value>
+  </data>
+  <data name="Label22Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Label23Resource1.Text" xml:space="preserve">
+    <value>*</value>
+  </data>
+  <data name="Label23Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Label24Resource1.Text" xml:space="preserve">
+    <value>*</value>
+  </data>
+  <data name="Label24Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Label25Resource1.Text" xml:space="preserve">
+    <value>*</value>
+  </data>
+  <data name="Label25Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Label27.text" xml:space="preserve">
+    <value>Are you an existing customer?</value>
+  </data>
+  <data name="Label27Resource1.Text" xml:space="preserve">
+    <value>*</value>
+  </data>
+  <data name="Label27Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Label2Resource1.Text" xml:space="preserve">
+    <value>Please submit your satisfaction responses. This survey is designed to allow Bank al Etihad to monitor and improve your overall customer experience.</value>
+  </data>
+  <data name="Label2Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Label2Resource12.Text" xml:space="preserve">
+    <value>Please State:</value>
+  </data>
+  <data name="Label3Resource1.Text" xml:space="preserve">
+    <value>Customer Name:</value>
+  </data>
+  <data name="Label3Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Label4Resource1.Text" xml:space="preserve">
+    <value>Mobile number registered at Bank al Etihad:</value>
+  </data>
+  <data name="Label4Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Label5Resource1.Text" xml:space="preserve">
+    <value>Please state how likely you are to recommend Bank al Etihad to your family/friends?</value>
+  </data>
+  <data name="Label5Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Label6Resource1.Text" xml:space="preserve">
+    <value>Not at all likely</value>
+  </data>
+  <data name="Label6Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Label7Resource1.Text" xml:space="preserve">
+    <value>Neutral</value>
+  </data>
+  <data name="Label7Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Label8Resource1.Text" xml:space="preserve">
+    <value>Extremely likely</value>
+  </data>
+  <data name="Label8Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Label9Resource1.Text" xml:space="preserve">
+    <value>We are sorry to hear that you would not recommend us to your family and friends. Please tell us what we can improve to meet your expectations?</value>
+  </data>
+  <data name="Label9Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Label9Resource2.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="LBcontact_time.text" xml:space="preserve">
+    <value>When do you prefer to be contacted?</value>
+  </data>
+  <data name="ListItemResource1.Text" xml:space="preserve">
+    <value>English</value>
+  </data>
+  <data name="ListItemResource1.Value" xml:space="preserve">
+    <value>en-us</value>
+  </data>
+  <data name="ListItemResource2.Text" xml:space="preserve">
+    <value>عربي</value>
+  </data>
+  <data name="ListItemResource2.Value" xml:space="preserve">
+    <value>AR-JO</value>
+  </data>
+  <data name="ListItemResource3.Text" xml:space="preserve">
+    <value>Branch</value>
+  </data>
+  <data name="ListItemResource3.Value" xml:space="preserve">
+    <value>Branch</value>
+  </data>
+  <data name="ListItemResource4.Text" xml:space="preserve">
+    <value>Call Center</value>
+  </data>
+  <data name="ListItemResource4.Value" xml:space="preserve">
+    <value>Call Center</value>
+  </data>
+  <data name="ListItemResource5.Text" xml:space="preserve">
+    <value>Affluent Center</value>
+  </data>
+  <data name="ListItemResource5.Value" xml:space="preserve">
+    <value>Affluent Center</value>
+  </data>
+  <data name="ListItemResource6.Text" xml:space="preserve">
+    <value>Direct Sales Team</value>
+  </data>
+  <data name="ListItemResource6.Value" xml:space="preserve">
+    <value>Direct Sales Team</value>
+  </data>
+  <data name="ListItemResource7.Text" xml:space="preserve">
+    <value>Etihad Ultimate Rewards</value>
+  </data>
+  <data name="PageResource1.Title" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Rno.text" xml:space="preserve">
+    <value>NO</value>
+  </data>
+  <data name="Ryes.text" xml:space="preserve">
+    <value>Yes</value>
+  </data>
+  <data name="R_evening.text" xml:space="preserve">
+    <value>Evening</value>
+  </data>
+  <data name="R_morning.text" xml:space="preserve">
+    <value>Morning</value>
+  </data>
+  <data name="R_NoResource1.Text" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="R_NoResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="R_YesResource1.Text" xml:space="preserve">
+    <value>Yes</value>
+  </data>
+  <data name="R_YesResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="TextBox1Resource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="TextBox1Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="TextBox2Resource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="TextBox2Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="TextBox3Resource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="TextBox3Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="TextBox4Resource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="TextBox4Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Scale.Text" xml:space="preserve">
+    <value>On scale from very good (5) to very poor (1), please rate your satisfaction regarding:</value>
+  </data>
+  <data name="Label2branch.text" xml:space="preserve">
+    <value>Which branch did you deal with?</value>
+  </data>
+  <data name="A10Resource0.Text1" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="Easy.Text" xml:space="preserve">
+    <value>How easy was it to get the service you wanted during your last interaction?</value>
+  </data>
+  <data name="Email_Lb.Text" xml:space="preserve">
+    <value>Email Address:</value>
+  </data>
+  <data name="Mobile_Lb.Text" xml:space="preserve">
+    <value>Mobile Number:</value>
+  </data>
+  <data name="Overall.Text" xml:space="preserve">
+    <value>1- Your overall experience at Bank al Etihad</value>
+  </data>
+  <data name="Quality.Text" xml:space="preserve">
+    <value>3- The quality of service at Bank al Etihad</value>
+  </data>
+  <data name="Speed.Text" xml:space="preserve">
+    <value>2- The speed of service at Bank al Etihad</value>
+  </data>
+  <data name="V_Difficult.Text" xml:space="preserve">
+    <value>Very Difficult</value>
+  </data>
+  <data name="V_Easy.Text" xml:space="preserve">
+    <value>Very Easy</value>
+  </data>
+  <data name="V_good.Text" xml:space="preserve">
+    <value>Very Good</value>
+  </data>
+  <data name="V_Poor.Text" xml:space="preserve">
+    <value>Very Poor</value>
+  </data>
+</root>

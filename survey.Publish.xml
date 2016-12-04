@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\inetpub\wwwroot\survey" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="online.bankaletihad.com/survey_page.aspx" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="True" profileName="Profile3" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="App_LocalResources/survey_page.aspx.resx" publishTime="11/30/2016 12:07:12" />
+    <file relUrl="Styles/Site.css" publishTime="02/15/2015 10:57:17" />
+    <file relUrl="Global.asax" publishTime="11/04/2014 08:55:33" />
+    <file relUrl="Site.Master" publishTime="12/11/2014 12:48:25" />
+    <file relUrl="App_LocalResources/survey_page.aspx.ar.resx" publishTime="11/30/2016 15:41:35" />
+    <file relUrl="App_LocalResources/Thanks_Page.aspx.ar.resx" publishTime="03/25/2015 08:16:41" />
+    <file relUrl="About.aspx" publishTime="11/04/2014 08:55:33" />
+    <file relUrl="bin/survey.pdb" publishTime="11/30/2016 14:58:22" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="11/04/2014 08:55:32" />
+    <file relUrl="App_LocalResources/Default.aspx.resx" publishTime="11/30/2016 11:42:44" />
+    <file relUrl="App_LocalResources/Thanks_Page.aspx.resx" publishTime="04/01/2015 10:22:21" />
+    <file relUrl="bin/survey.dll" publishTime="11/30/2016 14:58:22" />
+    <file relUrl="styles.css" publishTime="02/05/2015 12:15:03" />
+    <file relUrl="Account/Web.config" publishTime="11/04/2014 08:55:33" />
+    <file relUrl="Account/Register.aspx" publishTime="11/04/2014 08:55:33" />
+    <file relUrl="Account/Login.aspx" publishTime="11/04/2014 08:55:33" />
+    <file relUrl="img/logo_company_large.png" publishTime="11/16/2014 16:33:36" />
+    <file relUrl="App_LocalResources/Default.aspx.ar.resx" publishTime="11/28/2016 15:32:21" />
+    <file relUrl="Thanks_Page.aspx" publishTime="03/29/2015 12:21:04" />
+    <file relUrl="Scripts/jquery-1.11.2.min.js" publishTime="02/10/2015 11:53:23" />
+    <file relUrl="bin/AjaxControlToolkit.dll" publishTime="12/14/2013 10:04:04" />
+    <file relUrl="Scripts/jquery-1.11.2.js" publishTime="02/08/2015 08:21:37" />
+    <file relUrl="Default.aspx" publishTime="11/28/2016 15:32:36" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="11/04/2014 08:55:33" />
+    <file relUrl="preview.html" publishTime="12/11/2014 17:50:09" />
+    <file relUrl="bin/AjaxMin.dll" publishTime="12/04/2013 15:25:38" />
+    <file relUrl="survey_page.aspx" publishTime="12/04/2016 09:26:38" />
+    <file relUrl="Web.config" publishTime="03/29/2015 09:12:37" />
+    <file relUrl="img/Image Format2.png" publishTime="12/11/2014 10:12:52" />
+    <file relUrl="img/Image Format.PNG" publishTime="12/10/2014 22:35:39" />
+    <file relUrl="bin/survey.xml" publishTime="11/30/2016 14:58:22" />
+  </publishProfile>
+  <publishProfile publishUrl="C:\inetpub\wwwroot\New folder" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="False">
+    <file relUrl="App_LocalResources/survey_page.aspx.resx" publishTime="12/11/2014 13:33:35" />
+    <file relUrl="bin/Microsoft.WindowsAzure.Storage.dll" publishTime="12/04/2013 15:25:48" />
+    <file relUrl="bin/Microsoft.WindowsAzure.Storage.xml" publishTime="12/04/2013 15:25:48" />
+    <file relUrl="Global.asax" publishTime="11/04/2014 08:55:33" />
+    <file relUrl="Site.Master" publishTime="12/11/2014 12:48:25" />
+    <file relUrl="App_LocalResources/survey_page.aspx.ar.resx" publishTime="12/11/2014 10:08:30" />
+    <file relUrl="bin/System.Spatial.dll" publishTime="12/04/2013 15:25:48" />
+    <file relUrl="App_LocalResources/Thanks_Page.aspx.ar.resx" publishTime="12/11/2014 11:53:23" />
+    <file relUrl="About.aspx" publishTime="11/04/2014 08:55:33" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="11/04/2014 08:55:33" />
+    <file relUrl="bin/Microsoft.Data.OData.xml" publishTime="12/04/2013 15:25:48" />
+    <file relUrl="bin/survey.pdb" publishTime="12/11/2014 17:00:02" />
+    <file relUrl="App_LocalResources/Thanks_Page.aspx.resx" publishTime="12/11/2014 12:08:26" />
+    <file relUrl="bin/survey.dll" publishTime="12/11/2014 17:00:02" />
+    <file relUrl="bin/Microsoft.Data.Edm.xml" publishTime="12/04/2013 15:25:46" />
+    <file relUrl="Account/Web.config" publishTime="11/04/2014 08:55:33" />
+    <file relUrl="Account/Register.aspx" publishTime="11/04/2014 08:55:33" />
+    <file relUrl="Account/Login.aspx" publishTime="11/04/2014 08:55:33" />
+    <file relUrl="img/logo_company_large.png" publishTime="11/16/2014 16:33:36" />
+    <file relUrl="Thanks_Page.aspx" publishTime="12/11/2014 12:46:58" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="11/04/2014 08:55:33" />
+    <file relUrl="bin/AjaxControlToolkit.dll" publishTime="12/14/2013 10:04:04" />
+    <file relUrl="Styles/Site.css" publishTime="12/11/2014 16:38:38" />
+    <file relUrl="bin/Microsoft.Data.Edm.dll" publishTime="12/04/2013 15:25:46" />
+    <file relUrl="survey_page.aspx" publishTime="12/11/2014 16:58:16" />
+    <file relUrl="bin/HtmlAgilityPack.dll" publishTime="12/04/2013 15:25:38" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="11/04/2014 08:55:33" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="11/04/2014 08:55:32" />
+    <file relUrl="Web.config" publishTime="12/11/2014 13:11:45" />
+    <file relUrl="img/Image Format2.png" publishTime="12/11/2014 10:12:52" />
+    <file relUrl="img/Image Format.PNG" publishTime="12/10/2014 22:35:39" />
+    <file relUrl="bin/AjaxMin.dll" publishTime="12/04/2013 15:25:38" />
+    <file relUrl="bin/survey.xml" publishTime="12/11/2014 17:00:02" />
+    <file relUrl="bin/Microsoft.Data.OData.dll" publishTime="12/04/2013 15:25:48" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="11/04/2014 08:55:33" />
+  </publishProfile>
+</publishData>
